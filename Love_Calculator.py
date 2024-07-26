@@ -1,3 +1,8 @@
+'''The Love Calculator script calculates the compatibility score between two partners based on their names. 
+Users input their names, and the script counts occurrences of specific letters that spell "TRUE" and "LOVE."
+It then combines these counts to create a score, interpreting the score to output a compatibility message. 
+The code uses basic string manipulation, arithmetic operations, and conditional statements to determine and display the result.
+'''
 print("The Love Calculator is calculating your score... ")
 name1 = input("Enter your name: ")
 name2 = input("Enter your partner: ")
