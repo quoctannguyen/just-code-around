@@ -1,3 +1,3 @@
 # git-python-code
 
-adding all code I did (Python)
+just coding around
